@@ -2,6 +2,8 @@
 Estudante 1: Débora Cristina Santos
 Estudante 2: Caroline Faria Nunes
 
+Link para excel utilizado nesta análise: https://1drv.ms/x/s!Ao0NVTcO6K2sgS34iA5MyFvsbvlf?e=xkSphY
+
 Trabalho de Análise de Dados Maio 2020 
 
 ANÁLISES: 
